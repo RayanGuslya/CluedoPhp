@@ -1,0 +1,18 @@
+{
+    "name": "alexander/cluedo-web",
+    "type": "package",
+    "autoload": {
+        "psr-4": {
+            "Alexander\\CluedoWeb\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "RayanGuslya",
+            "email": "raytest@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "symfony/var-dumper":"^7.2"
+    }
+}
